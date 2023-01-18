@@ -1,2 +1,1 @@
-# PrepCourse-Henry
-Repositorio de prueba del PrepCourse de Henry (modulo 2)
+Este proyecto es una prueba para probar github y copiarlo a mi pc
